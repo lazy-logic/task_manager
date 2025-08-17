@@ -77,3 +77,6 @@ if starting_budget >= 100:
     print("Congratulations! You have achieved a win ending.")
 else:
     print("You have reached a survival ending.")
+
+
+
