@@ -10,7 +10,7 @@
 # # average =(num1 + num2) / 2
 # # print(f"The average of {num1} and {num2} is: {average}")
 
-  
+# # AVERAGE program to calculate the average of two numbers
    
 # # accept an age input from user and a full name 
 # age = int(input("Enter your age: "))
